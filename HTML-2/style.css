@@ -1,0 +1,45 @@
+body{
+    color: rgb(6, 27, 61);
+    font-size: 18px;
+}
+.backColor{
+    background-color: rgb(142, 168, 212);
+}
+li > a{
+    text-decoration: none;
+    color: rgb(6, 27, 61);
+}
+.navmenu{
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.jobs{
+    margin-left: 200px;
+}
+header, footer{
+    width: 500px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#secondImage{
+    margin-right: 200px;
+    float: right;
+}
+footer{
+    padding-left: 70px;
+}
